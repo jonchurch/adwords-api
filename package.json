@@ -1,0 +1,17 @@
+{
+  "name": "adwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "googleads-node-lib": "0.0.34",
+    "simple-oauth2": "^0.8.0"
+  }
+}
